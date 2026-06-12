@@ -160,7 +160,7 @@ open_to: Collaboration on security projects
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-Juwonbal-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Juwonbal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4ECDC4?style=for-the-badge&logo=vercel&logoColor=fff)](https://portfolio-brown-one-18.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4ECDC4?style=for-the-badge&logo=vercel&logoColor=fff)](https://juwonbal.vercel.app/)
 
 </div>
 
