@@ -82,22 +82,22 @@ open_to: Collaboration on security projects
 <div align="center">
 
 <a href="https://github.com/Juwonbal/Download-scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juwonbal&repo=Download-scanner&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Download Scanner"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Juwonbal&repo=Download-scanner&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Download Scanner"/>
 </a>
 <a href="https://github.com/Juwonbal/Azure-Log-Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juwonbal&repo=Azure-Log-Analyzer&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Azure Log Analyzer"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Juwonbal&repo=Azure-Log-Analyzer&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Azure Log Analyzer"/>
 </a>
 <a href="https://github.com/Juwonbal/PRODIGY_CS_01">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juwonbal&repo=PRODIGY_CS_01&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Caesar Cipher Tool"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Juwonbal&repo=PRODIGY_CS_01&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Caesar Cipher Tool"/>
 </a>
 <a href="https://github.com/Juwonbal/PRODIGY_CS_02">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juwonbal&repo=PRODIGY_CS_02&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Image Encryption Tool"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Juwonbal&repo=PRODIGY_CS_02&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Image Encryption Tool"/>
 </a>
 <a href="https://github.com/Juwonbal/Solana-explorer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juwonbal&repo=Solana-explorer&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Solana Explorer"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Juwonbal&repo=Solana-explorer&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Solana Explorer"/>
 </a>
 <a href="https://github.com/Juwonbal/Portfolio-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juwonbal&repo=Portfolio-&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Portfolio"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Juwonbal&repo=Portfolio-&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9" alt="Portfolio"/>
 </a>
 
 </div>
@@ -109,10 +109,10 @@ open_to: Collaboration on security projects
 <div align="center">
   
 <a href="https://github.com/Juwonbal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juwonbal&show_icons=true&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9&ring_color=FF6B6B&include_all_commits=true&count_private=true" alt="Juwonbal's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Juwonbal&show_icons=true&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=4ECDC4&icon_color=FFE66D&text_color=c9d1d9&ring_color=FF6B6B&include_all_commits=true&count_private=true" alt="Juwonbal's GitHub Stats"/>
 </a>
 <a href="https://github.com/Juwonbal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juwonbal&layout=compact&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=4ECDC4&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Juwonbal&layout=compact&theme=radical&bg_color=0d1117&border_color=FF6B6B&title_color=4ECDC4&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
@@ -129,7 +129,7 @@ open_to: Collaboration on security projects
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Juwonbal&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Juwonbal&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -149,7 +149,7 @@ open_to: Collaboration on security projects
 
 <div align="center">
   
-[![Juwonbal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juwonbal&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=FFE66D&area_color=4ECDC4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Juwonbal's github activity graph](https://activity-graph.vercel.app/graph?username=Juwonbal&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=FFE66D&area_color=4ECDC4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
